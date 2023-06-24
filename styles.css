@@ -341,6 +341,7 @@ nav{
 
 .planet-navbar .nav{
     column-gap: 1rem;
+    color: #fff;
 }
 .li-item .nav-link{
     letter-spacing: 4px;
